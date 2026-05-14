@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ADBMS PROJECT\\Jewellery_shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|E:\\ADBMS PROJECT\\Jewellery_shop\\jewellery_shop\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|e:\\adbms project\\jewellery_shop\\jewellery_shop\\staffpurchaseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\staffpurchaseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|e:\\adbms project\\jewellery_shop\\jewellery_shop\\staffpurchaseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\staffpurchaseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|E:\\ADBMS PROJECT\\Jewellery_shop\\jewellery_shop\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|E:\\ADBMS PROJECT\\Jewellery_shop\\jewellery_shop\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|E:\\ADBMS PROJECT\\Jewellery_shop\\jewellery_shop\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|E:\\ADBMS PROJECT\\Jewellery_shop\\jewellery_shop\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|E:\\ADBMS PROJECT\\Jewellery_shop\\jewellery_shop\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|E:\\ADBMS PROJECT\\Jewellery_shop\\jewellery_shop\\jewelleryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\jewelleryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|E:\\ADBMS PROJECT\\Jewellery_shop\\jewellery_shop\\jewelleryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\jewelleryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|E:\\ADBMS PROJECT\\Jewellery_shop\\jewellery_shop\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|e:\\adbms project\\jewellery_shop\\jewellery_shop\\myhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\myhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|e:\\adbms project\\jewellery_shop\\jewellery_shop\\myhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\myhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|e:\\adbms project\\jewellery_shop\\jewellery_shop\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|e:\\adbms project\\jewellery_shop\\jewellery_shop\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|E:\\ADBMS PROJECT\\Jewellery_shop\\jewellery_shop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|E:\\ADBMS PROJECT\\Jewellery_shop\\jewellery_shop\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|E:\\ADBMS PROJECT\\Jewellery_shop\\jewellery_shop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|E:\\ADBMS PROJECT\\Jewellery_shop\\jewellery_shop\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|E:\\ADBMS PROJECT\\Jewellery_shop\\jewellery_shop\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|e:\\adbms project\\jewellery_shop\\jewellery_shop\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|E:\\ADBMS PROJECT\\Jewellery_shop\\jewellery_shop\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C53B96E9-52CC-411D-B03F-7332408C77C6}|Jewellery_shop\\Jewellery_shop.csproj|solutionrelative:jewellery_shop\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyHistoryForm.cs",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\MyHistoryForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\MyHistoryForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\MyHistoryForm.cs",
+              "RelativeToolTip": "Jewellery_shop\\MyHistoryForm.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwDUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:38:02.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyHistoryForm.cs [Design]",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\MyHistoryForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\MyHistoryForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\MyHistoryForm.cs [Design]",
+              "RelativeToolTip": "Jewellery_shop\\MyHistoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:36:04.118Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffPurchaseForm.cs",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\StaffPurchaseForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\StaffPurchaseForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\StaffPurchaseForm.cs",
+              "RelativeToolTip": "Jewellery_shop\\StaffPurchaseForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:33:04.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaffPurchaseForm.cs [Design]",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\StaffPurchaseForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\StaffPurchaseForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\StaffPurchaseForm.cs [Design]",
+              "RelativeToolTip": "Jewellery_shop\\StaffPurchaseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:28:13.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StaffDashboard.cs",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\StaffDashboard.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\StaffDashboard.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\StaffDashboard.cs",
+              "RelativeToolTip": "Jewellery_shop\\StaffDashboard.cs",
+              "ViewState": "AgIAABEAAAAA//////8PwCAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:07:01.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StaffDashboard.cs [Design]",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\StaffDashboard.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\StaffDashboard.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\StaffDashboard.cs [Design]",
+              "RelativeToolTip": "Jewellery_shop\\StaffDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:58:32.993Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportsForm.cs",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\ReportsForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\ReportsForm.cs",
+              "RelativeToolTip": "Jewellery_shop\\ReportsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:18:14.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReportsForm.cs [Design]",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\ReportsForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\ReportsForm.cs [Design]",
+              "RelativeToolTip": "Jewellery_shop\\ReportsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:11:14.568Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryForm.cs",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\InventoryForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\InventoryForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\InventoryForm.cs",
+              "RelativeToolTip": "Jewellery_shop\\InventoryForm.cs",
+              "ViewState": "AgIAABQAAAAAMjMzMzP7vzkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:01:46.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryForm.cs [Design]",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\InventoryForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\InventoryForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\InventoryForm.cs [Design]",
+              "RelativeToolTip": "Jewellery_shop\\InventoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:23:07.728Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesForm.cs",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\SalesForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\SalesForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\SalesForm.cs",
+              "RelativeToolTip": "Jewellery_shop\\SalesForm.cs",
+              "ViewState": "AgIAAIIAAACAmpmZmZkYwKgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T07:34:47.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalesForm.cs [Design]",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\SalesForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\SalesForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\SalesForm.cs [Design]",
+              "RelativeToolTip": "Jewellery_shop\\SalesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T07:19:13.149Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\CustomerForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\CustomerForm.cs",
+              "RelativeToolTip": "Jewellery_shop\\CustomerForm.cs",
+              "ViewState": "AgIAAAsAAACAmZmZmZkdwDcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T06:47:22.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\CustomerForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "Jewellery_shop\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T06:32:55.659Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JewelleryForm.cs",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\JewelleryForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\JewelleryForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\JewelleryForm.cs",
+              "RelativeToolTip": "Jewellery_shop\\JewelleryForm.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAAAF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T17:43:47.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JewelleryForm.cs [Design]",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\JewelleryForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\JewelleryForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\JewelleryForm.cs [Design]",
+              "RelativeToolTip": "Jewellery_shop\\JewelleryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T17:25:01.71Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\Dashboard.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\Dashboard.cs",
+              "RelativeToolTip": "Jewellery_shop\\Dashboard.cs",
+              "ViewState": "AgIAACYAAAAAkZmZmZklwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:47:41.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\Dashboard.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Jewellery_shop\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:34:09.492Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\LoginForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\LoginForm.cs",
+              "RelativeToolTip": "Jewellery_shop\\LoginForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:01:40.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\LoginForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Jewellery_shop\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:39:37.804Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\WelcomeForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\WelcomeForm.cs",
+              "RelativeToolTip": "Jewellery_shop\\WelcomeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:25:21.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "6d09b5e4-4bd4-49ba-91f0-a7ab48cd1cca",
+        "Display": 0,
+        "X": 90,
+        "Y": 169,
+        "Width": 1142,
+        "Height": 612,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WelcomeForm.cs [Design]",
+              "DocumentMoniker": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "Jewellery_shop\\WelcomeForm.cs",
+              "ToolTip": "E:\\ADBMS PROJECT\\Jewellery_shop\\Jewellery_shop\\WelcomeForm.cs [Design]",
+              "RelativeToolTip": "Jewellery_shop\\WelcomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:56:27.215Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
